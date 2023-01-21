@@ -1,0 +1,17 @@
+{
+  "name": "reactpatikadev",
+  "version": "1.0.0",
+  "description": "ilk node.js projem",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Zehra Cakir",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "node-fetch": "^3.3.0",
+    "slugify": "^1.6.5"
+  }
+}
